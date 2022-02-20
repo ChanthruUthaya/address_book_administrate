@@ -1,0 +1,17 @@
+{
+  "name": "address_book",
+  "version": "1.0.0",
+  "description": "administrate address_book",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "devDependencies": {},
+  "author": "Chanthru",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
